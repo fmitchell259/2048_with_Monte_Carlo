@@ -7,4 +7,4 @@ Scoring highest with the hybrid model.
 
 Paramters can be fine tuned to the users preference from the top of the main function. 
 
-Please refer to the written report on all three implementations, as well as details on paramter fine-tuning. 
+Please refer to the written report on all three implementations, as well as details on parameter fine-tuning. 
